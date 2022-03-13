@@ -11,4 +11,4 @@ A website that offers search engine optimization, online reputation managements,
 https://lizditullio.github.io/Challenge-1/
 
 ## Contribution 
-Made with ❤️ Liz DiTullioctor Starter Code
+Made with ❤️ Liz DiTullio
