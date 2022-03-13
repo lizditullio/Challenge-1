@@ -8,7 +8,7 @@ A website that offers search engine optimization, online reputation managements,
 * CSS
 
 ## Website 
-https://lernantino.github.io/run-buddy/
+https://lizditullio.github.io/Challenge-1/
 
 ## Contribution 
 Made with ❤️ Liz DiTullioctor Starter Code
